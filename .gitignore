@@ -1,0 +1,26 @@
+# C build artifacts
+*.o
+*.obj
+*.exe
+*.exe.manifest
+*.out
+*.a
+*.lib
+*.dll
+
+# Build directories
+build/
+bin/
+dist/
+
+# Generated test data / files
+data/
+results/
+tmp/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
