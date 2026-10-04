@@ -41,7 +41,7 @@ gcc code/hello.c -o hello && ./hello
 ## 考核方式
 - 每周小作业 40% · 期中（字符串库）20% · 期末（小型链表/矩阵库）30% · 随堂测验 10%。
 
-See `docs/syllabus.md`. _Teaching scaffold — verify per your compiler/ABI before live term._
+课程教学大纲、学时分配与考核方式见 [`docs/syllabus.md`](docs/syllabus.md)。
 
 ---
 
