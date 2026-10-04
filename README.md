@@ -32,14 +32,14 @@ cd c-programming
 gcc code/hello.c -o hello && ./hello
 ```
 
-## Key themes
-- The **sizeof**-driven mental model of memory.
-- Pointer = address + type; arrays decay; NULL vs. garbage.
-- **malloc/free** discipline and the top three memory bugs (leak, double-free, OOB).
-- A tiny dynamic list teaches ownership transfers.
+## 核心要点
+- 以 **sizeof** 为切入点建立内存的心智模型。
+- 指针 = 地址 + 类型；数组会退化为指针；NULL 与野值的区别。
+- **malloc/free** 的配对纪律，以及三大内存错误（泄漏、重复释放、越界访问）。
+- 通过一个精简的动态链表，讲清所有权的转移。
 
-## Grading
-- Weekly small programs 40% · midterm (string library) 20% · final (mini list/matrix lib) 30% · quiz 10%.
+## 考核方式
+- 每周小作业 40% · 期中（字符串库）20% · 期末（小型链表/矩阵库）30% · 随堂测验 10%。
 
 See `docs/syllabus.md`. _Teaching scaffold — verify per your compiler/ABI before live term._
 
