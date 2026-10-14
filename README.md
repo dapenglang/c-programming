@@ -8,7 +8,7 @@ computer graphics, algorithms) make sense.
 
 > 从 `hello` 起步，一路走到指针、内存管理、数据结构与系统级编程习惯——正是这些 C 语言功底，让后续的**操作系统、计算机图形学、算法**等课程真正变得可理解。
 
-<img src="assets/cover.svg" alt="计算思维与问题求解 · C 语言综合实验与基础实验" width="100%">
+<img src="assets/cover.jpg" alt="计算思维与问题求解 · C 语言综合实验与基础实验" width="100%">
 
 ## Overview
 
